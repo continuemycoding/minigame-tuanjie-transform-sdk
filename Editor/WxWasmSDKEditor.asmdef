@@ -3,7 +3,8 @@
     "rootNamespace": "",
     "references": [
         "Wx",
-        "Unity.InstantGame.Editor"
+        "Unity.InstantGame.Editor",
+        "LitJson"
     ],
     "includePlatforms": [
         "Editor"
